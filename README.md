@@ -1,5 +1,3 @@
-##Walkthrough
+Code path Flashcards Part 2:
 
-I've attached the project's walkthrough -
-
-![LearnJpn-flashcard](https://github.com/user-attachments/assets/48b41376-a02c-485e-bc9a-8e28c0505014)
+![LanguageFlashcards-Hiragana-Personal-MicrosoftEdge2025-06-2503-00-37-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/32578d8e-cfc8-4ce5-a180-daaee8ddb54c)
